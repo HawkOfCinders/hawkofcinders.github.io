@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.cba710ea.chunk.css",
-    "main.js": "/static/js/main.4ec7c656.chunk.js",
-    "main.js.map": "/static/js/main.4ec7c656.chunk.js.map",
+    "main.js": "/static/js/main.e14afa2b.chunk.js",
+    "main.js.map": "/static/js/main.e14afa2b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2fd7dc15.js",
     "runtime-main.js.map": "/static/js/runtime-main.2fd7dc15.js.map",
     "static/js/2.6ca8f91c.chunk.js": "/static/js/2.6ca8f91c.chunk.js",
@@ -10,7 +10,8 @@
     "index.html": "/index.html",
     "static/css/main.cba710ea.chunk.css.map": "/static/css/main.cba710ea.chunk.css.map",
     "static/js/2.6ca8f91c.chunk.js.LICENSE.txt": "/static/js/2.6ca8f91c.chunk.js.LICENSE.txt",
-    "static/media/ProceduralGenerationMainImage.bdfb2d63.PNG": "/static/media/ProceduralGenerationMainImage.bdfb2d63.PNG",
+    "static/media/GiantsKettleImage.975edd36.PNG": "/static/media/GiantsKettleImage.975edd36.PNG",
+    "static/media/ProceduralGenerationMainImage.16247e1c.PNG": "/static/media/ProceduralGenerationMainImage.16247e1c.PNG",
     "static/media/SpaceInvadersMainImage.7f6e0d4f.PNG": "/static/media/SpaceInvadersMainImage.7f6e0d4f.PNG",
     "static/media/YeetYourselfMain.6df94124.PNG": "/static/media/YeetYourselfMain.6df94124.PNG",
     "static/media/YeetYourselfWorld1.cb742d02.PNG": "/static/media/YeetYourselfWorld1.cb742d02.PNG",
@@ -22,6 +23,6 @@
     "static/js/runtime-main.2fd7dc15.js",
     "static/js/2.6ca8f91c.chunk.js",
     "static/css/main.cba710ea.chunk.css",
-    "static/js/main.4ec7c656.chunk.js"
+    "static/js/main.e14afa2b.chunk.js"
   ]
 }
